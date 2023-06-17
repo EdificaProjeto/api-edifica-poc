@@ -1,4 +1,4 @@
-# api-edifica-poc
+# API Edifica - PoC
 
 ## Descrição do Projeto
 
